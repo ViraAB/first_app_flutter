@@ -1,6 +1,6 @@
-# flutter_vs
+# Counter with flutter
 
-A new Flutter project.
+My first app in flutter
 
 ## Getting Started
 
