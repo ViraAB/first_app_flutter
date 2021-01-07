@@ -1,6 +1,9 @@
 # Counter with flutter
 
-My first app in flutter
+My first app in flutter.
+it is a small application, with 3 buttons; a number is shown on the screen,
+and with 1 of the buttons you can increase it, with the other decrease and
+with the third you can equalize it to zero
 
 ## Getting Started
 
